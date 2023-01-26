@@ -6,6 +6,7 @@ public class fibonacciseries {
         int n = sc.nextInt();
         int a = 0;
         int b = 1;
+        //ravi
         int count = 2;
         while (count <= n) {
             int temp=b;
