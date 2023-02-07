@@ -1,4 +1,3 @@
-
 public class reverseAnumber {
     public static void main(String[] args){
         int num = 28479;
