@@ -1,3 +1,4 @@
+//sum of natural nos?
 //import java.util.Scanner;
 //public class SumofnaturalNNO {
 //    public static void main(String[] args) {
