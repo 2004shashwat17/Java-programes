@@ -1,3 +1,4 @@
+//distance between two points?
 import java.util.Scanner;
 public class distancebetweentwopoints {
     public static void main(String[] args) {
