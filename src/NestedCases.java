@@ -1,3 +1,4 @@
+//nested cases
 import java.util.Scanner;
 
 public class NestedCases {
