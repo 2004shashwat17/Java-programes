@@ -1,3 +1,4 @@
+//primeter of equilateraltriangle?
 import java.util.Scanner;
 public class perimeterEquilateralTriangle {
     public static void main(String[] args) {
