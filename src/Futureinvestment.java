@@ -1,3 +1,4 @@
+//future investement
 //fv=pv*(1+i/100)^N
 //fv=Future investment
 //pv=present investment
