@@ -1,3 +1,4 @@
+//area of rectangle
 import java.util.Scanner;
 public class areaofreactangle {
     public static void main(String[] args) {
