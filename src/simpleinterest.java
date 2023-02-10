@@ -1,3 +1,4 @@
+//simple interest
 import java.util.*;
 public class simpleinterest {
     public static void main(String[] args){
