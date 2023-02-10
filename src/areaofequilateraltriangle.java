@@ -1,3 +1,4 @@
+//area of equlaterial triangle?
 import java.util.Scanner;
 public class areaofequilateraltriangle {
 public static void main(String[] args)
