@@ -1,3 +1,4 @@
+//commision percentage
 import java.util.Scanner;
 public class commisionpercentage {
     public static void main(String[] args) {
