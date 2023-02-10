@@ -1,4 +1,5 @@
 import java.sql.SQLOutput;
+// To calculate area of triangle
 import java.util.Scanner;
 public class Areaoftriangle {
     public static void main(String[] args) {
