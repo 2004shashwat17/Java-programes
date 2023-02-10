@@ -1,4 +1,4 @@
-
+//calculate ncr and npr
 import java.util.Scanner;
 class NcrAndNpr
 {
