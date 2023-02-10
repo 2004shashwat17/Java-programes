@@ -1,3 +1,4 @@
+//even or odd
 //import java.util.Scanner;
 //public class EVENORODD {
 //    public static void main (String[] args){
