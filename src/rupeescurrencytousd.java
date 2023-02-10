@@ -1,3 +1,4 @@
+//rupees to usd
 import java.util.Scanner;
 public class rupeescurrencytousd {
     public static void main(String[] args) {
