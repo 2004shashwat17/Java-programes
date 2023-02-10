@@ -1,3 +1,4 @@
+//depreciation valyue
 /*
  amount = ((100-depprecet percentage)*amount)/100
  */
