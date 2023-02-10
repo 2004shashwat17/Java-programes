@@ -1,3 +1,4 @@
+//area of rhombus?
 import java.util.Scanner;
     public class areaofRhombus {
     public static void main(String[]args){
