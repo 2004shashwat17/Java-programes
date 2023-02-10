@@ -1,4 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
+//counting occurence
 
 //public class countingoccurence {
 //    public static void main(String[] args) {
