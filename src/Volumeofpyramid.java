@@ -1,3 +1,4 @@
+//volume of pyramid?
 import java.util.Scanner;
 public class Volumeofpyramid {
     public static void main(String[] args) {
