@@ -1,3 +1,4 @@
+//avergae ofn number
 import java.util.Scanner;
 public class AverageofN {
     public  static void  main(String[] args){
