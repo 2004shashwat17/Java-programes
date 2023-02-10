@@ -1,3 +1,4 @@
+//Discount of products
 import java.util.Scanner;
 public class DiscountofPRODUCT {
     public static void main(String[] args) {
