@@ -1,3 +1,4 @@
+//calculate perimeter of reactangle?
 import java.util.Scanner;
 public class Perimeterofrectangle {
     public static void main(String[] args) {
