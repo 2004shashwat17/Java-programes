@@ -1,3 +1,4 @@
+//sum of digits
 import java.util.Scanner;
 public class sumofdigitsofno {
     public static void main(String[] args){
