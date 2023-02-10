@@ -1,3 +1,4 @@
+
 // compound interest - Principle*(1+(rate/100))^time
 import java.lang.*;
 import java.util.Scanner;
