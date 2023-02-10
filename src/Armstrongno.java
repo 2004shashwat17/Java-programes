@@ -21,7 +21,7 @@
 //
 //    }
 //}
-//TO FIND ARMSTRONG NUMBER BETWEEEN TWO GIVEN NUMBERS?
+//TO FIND ARMSTRONG NUMBER BETWEEEN TWO GIVEN NUMBERS as?
 import java.lang.Math;
 import java.util.Scanner;
 public class Armstrongno {
