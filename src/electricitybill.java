@@ -1,3 +1,4 @@
+//electricity bill
 import java.util.Scanner;
 public class electricitybill {
     public static void main(String[] args) {
