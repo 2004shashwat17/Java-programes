@@ -1,3 +1,4 @@
+//perfect number
 import java.util.Scanner;
 public class perfectnumber {      //that no which is divisible till the no divisible. and then add till that number.
     public static void main(String[] args) {
