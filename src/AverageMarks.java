@@ -1,3 +1,4 @@
+//average marks
 import java.util.Scanner;
 public class AverageMarks {
     public static void main(String[] args) {
