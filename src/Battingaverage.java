@@ -1,3 +1,4 @@
+//batting average
 /*
 In cricket, a player's batting average is the total number of runs
 they have scored divided by the number of times
