@@ -1,3 +1,4 @@
+//area of isoceles triangle?
 import java.sql.SQLOutput;
 import java.util.Scanner;
 public class areaofisocelestriangle {
