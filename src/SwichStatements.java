@@ -1,4 +1,4 @@
-
+//switch statement?
 import java.util.Scanner;
 public class SwichStatements {
 
