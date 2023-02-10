@@ -1,3 +1,4 @@
+//calculate perimeter of parllalogram?
 import java.util.Scanner;
 public class Perimeterofrhombus {
     public static void main(String[] args) {
