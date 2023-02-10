@@ -1,3 +1,4 @@
+//vowels or consonant?
 import java.util.Scanner;
 public class vowelsorconsonant {
     public static void main(String[] args) {
