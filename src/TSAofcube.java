@@ -1,3 +1,4 @@
+//tsa of cube?
 import java.util.Scanner;
 public class TSAofcube {
     public static void main(String[] args) {
