@@ -1,3 +1,4 @@
+//power in java
 import java.util.Scanner;
 public class powerinjava {
     public static void main(String[] args){
