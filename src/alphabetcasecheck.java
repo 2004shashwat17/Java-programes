@@ -1,3 +1,4 @@
+//alphabet case check
 import java.util.Scanner;
 public class alphabetcasecheck {
     public static void main (String[] args){
