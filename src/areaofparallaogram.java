@@ -1,3 +1,4 @@
+//area of parallaogram
 import java.util.Scanner;
 public class areaofparallaogram {
     public static void main(String[] args) {
