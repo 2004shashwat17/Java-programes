@@ -1,3 +1,4 @@
+//pa
 //To check whether the given number is a palindrome or not?
 //import java.util.Scanner;
 //public class PalindromeString{
