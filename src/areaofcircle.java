@@ -22,7 +22,7 @@ import java.lang.*;
 public class areaofcircle {
     public static void main(String []args){
         Scanner sc = new Scanner (System.in);
-        System.out.println("Entre the radius: ");
+        System.out.println("Enter the radius: ");
         int r=sc.nextInt();
         double area= Math.PI*(r*r);
         System.out.println("Area of circle: "+area);
