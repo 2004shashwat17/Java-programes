@@ -18,6 +18,7 @@ public class areaofequilateraltriangle {
                 System.out.println("Enter the side of the traingle: ");
                 double a=in.nextInt();
                 double A=Area(a);
+            System.out.println("area of equilateral triangle: "+A);
         }
         static double Area(double a){
              double area=(Math.sqrt(3)/4)*(a*a);
