@@ -37,25 +37,26 @@
 //  The sum of positive odd numbers from a list of numbers (N) entered by the user.
 //  The list terminates when the user enters a zero?
 import java.util.Scanner;
-public class SumofnaturalNNO {
-    public static void main(String[] args) {
-        int sum1 = 0;
-        int sum2 = 0;
-        int sum3 = 0;
-        int n=0;
-        Scanner sc = new Scanner(System.in);
-        for (int i = 1; i <= n; i++) {
-            int a = sc.nextInt();
-            if (a == 0) {
-                break;
-            } else if (a< 0) {
-                sum1 = sum1 + a;
-            } else if (a% 2 == 0) {
-                sum2 = sum2 + a;
-            } else {
-                sum3 = sum3 + a;
-            }
+//public class SumofnaturalNNO {
+//    public static void main(String[] args) {
+//        int sum1 = 0;
+//        int sum2 = 0;
+//        int sum3 = 0;
+//        int n=0;
+//        Scanner sc = new Scanner(System.in);
+//        for (int i = 1; i <= n; i++) {
+//            int a = sc.nextInt();
+//            if (a == 0) {
+//                break;
+//            } else if (a< 0) {
+//                sum1 = sum1 + a;
+//            } else if (a% 2 == 0) {
+//                sum2 = sum2 + a;
+//            } else {
+//                sum3 = sum3 + a;
+//            }
+//
+//        }
+//    }
+//}
 
-        }
-    }
-}
