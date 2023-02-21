@@ -21,36 +21,29 @@
 //
 //    }
 //}
-//TO FIND ARMSTRONG NUMBER BETWEEEN TWO GIVEN NUMBERS as?
-import java.lang.Math;
-import java.util.Scanner;
+//TO FIND ARMSTRONG NUMBER using methods?
+
 public class Armstrongno {
+
+    // Function to check if a number is an Armstrong number
+    public static boolean isArmstrong(int number) {
+        int numDigits = String.valueOf(number).length(); // count the number of digits
+        int sum = 0;
+        int temp = number;
+        while (temp > 0) {
+            int digit = temp % 10; // get the last digit
+            sum += Math.pow(digit, numDigits); // add the digit raised to the power of numDigits to the sum
+            temp /= 10; // remove the last digit
+        }
+        return number == sum;
+    }
+
+    // Main function to test the isArmstrong function
     public static void main(String[] args) {
-        Scanner reader= new Scanner(System.in);
-
-        System.out.println("Enter lower bound");
-        int lower= reader.nextInt();
-        System.out.println("Enter upper bound");
-        int upper= reader.nextInt();
-        for (int number=lower;number<upper;++number){
-            int digits=0;
-            int result=0;
-            int originalnumber=number;
-            //calculate number of digits
-            while(originalnumber!=0) {
-                originalnumber /= 10;
-                ++digits;
+        for (int i = 1; i <= 1000; i++) {
+            if (isArmstrong(i)) {
+                System.out.println(i + " is an Armstrong number.");
             }
-            originalnumber=number;
-            while(originalnumber !=0) {
-                int remainder = originalnumber % 10;
-                result += Math.pow(remainder, digits);
-                originalnumber /= 10;
-            }
-            if(result==number){
-                System.out.println(number+"");
-            }
-
         }
     }
 }
